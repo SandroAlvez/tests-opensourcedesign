@@ -1,0 +1,20 @@
+{
+  "name": "tests-opensourcedesign",
+  "version": "1.0.0",
+  "description": "This is a project to practice Test Automation with Cypress (JavaScript), and to contribute to the open source project Open Source Design",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandroAlvez/tests-opensourcedesign.git"
+  },
+  "keywords": [],
+  "author": "Sandro Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandroAlvez/tests-opensourcedesign/issues"
+  },
+  "homepage": "https://github.com/SandroAlvez/tests-opensourcedesign#readme",
+  "devDependencies": {
+    "cypress": "^15.4.0"
+  }
+}
