@@ -48,7 +48,6 @@ cypress/downloads/
 cypress/results/
 cypress/reports/
 .cypress-cache/
-Cypress/
 
 # Environment files
 .env
